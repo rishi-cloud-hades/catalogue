@@ -1,1 +1,1 @@
-https://github.com/rishi-cloud-hades/catalogue?tab=readme-ov-file#catalogue
+https://rishi-cloud-hades.github.io/catalogue/catalogues.html
